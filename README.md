@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CalyFit
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on Data Analysis Projects where i can grow my skills 
-- 📫 How to reach me via my direct email: iwuohacalistusonyeka@gmail.com
+- 🌱 I’m currently learning Data Analysis at ALX Africa
+- 💞️ I’m looking to collaborate on Data Analysis Projects where I can grow my skills 
+- 📫 You can reach me via my direct email: iwuohacalistusonyeka@gmail.com
 
 <!---
 CalyFit/CalyFit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
